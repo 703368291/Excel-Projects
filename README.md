@@ -1,2 +1,2 @@
 # Excel-Projects
-This Repository contains Analysis of Sales Based on Region, Product, Month wise and Year wise using Different types of charts, Pivot tables and Slicers
+This Repository contains Analysis of  sales and Gross margin Performance across multiple dimensions for a business like Location wise, Product code wise, financial year wise, B2B, B2C wise Metrics using Pivot table, Excel, Slicers, Charts.  
